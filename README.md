@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Fabiano Muscardi 👋</h1>
+<p align="center">In Love to Digital Transformation</p>
 
-<!--
-**fmuscardi/fmuscardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  - 👨🏽‍💻 I’m currently working at [Drogaria Araújo](https://www.araujo.com.br/)
+  - 🔎 I’m currently learning Java and front-end techniques
+  - 🚀 I’m focus in results
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2 align="left"></h2>
+Connect with me:
+
+
+  <h3 align="left">
+     <code>
+       <a href="https://www.linkedin.com/in/fabiano-muscardi-961356198/" title="LinkedIn Profile"><img width="33" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+     <code><a href="https://www.instagram.com/muscardi_dev/" title="Instagram Profile"><img width="33" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  </h3>
+
+  <hr>
+
+  📈 My GitHub Stats
+
+  <p align=center>
+     <a href="" title="" target="">
+       <img height=165 align="center"
+         src="https://github-readme-stats.vercel.app/api?username=fmuscardi&show_icons=true&theme=react">
+     </a>
+     <a href="" target="">
+       <img height=165 align="center"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=fmuscardi&show_icons=true&theme=react" />
+     </a>
+  </p>
