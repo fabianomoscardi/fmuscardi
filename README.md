@@ -12,7 +12,6 @@ Connect with me:
   <h3 align="left">
      <code>
        <a href="https://www.linkedin.com/in/fabiano-muscardi-961356198/" title="LinkedIn Profile"><img width="33" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-     <code><a href="https://www.instagram.com/muscardi_dev/" title="Instagram Profile"><img width="33" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
   </h3>
 
   <hr>
