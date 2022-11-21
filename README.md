@@ -3,7 +3,6 @@
 
 
   - 👨🏽‍💻 I’m currently working at [Drogaria Araújo](https://www.araujo.com.br/)
-  - 🔎 I’m currently learning Java and front-end techniques
   - 🚀 I’m focus in results
 
   <h2 align="left"></h2>
