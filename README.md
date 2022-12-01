@@ -2,7 +2,7 @@
 <p align="center">In Love to Digital Transformation</p>
 
 
-  - 👨🏽‍💻 I’m currently working at [Drogaria Araújo](https://www.araujo.com.br/)
+  - 👨🏽‍💻 I’m currently working as Midlle Java Development at [Drogaria Araújo](https://www.araujo.com.br/)
   - 🚀 I’m focus in results
 
   <h2 align="left"></h2>
